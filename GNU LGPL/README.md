@@ -1,1 +1,3 @@
-
+- [GNU Library General Public License version 2 | Open Source Initiative](https://opensource.org/licenses/LGPL-2.0)
+- [GNU Lesser General Public License version 2.1 | Open Source Initiative](https://opensource.org/licenses/LGPL-2.1)
+- [GNU Lesser General Public License version 3 | Open Source Initiative](https://opensource.org/licenses/LGPL-3.0)
